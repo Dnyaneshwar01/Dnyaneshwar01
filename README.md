@@ -14,5 +14,3 @@ SDET with 4 years of experience in automation and manual testing for web and API
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dnyaneshwar01&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
