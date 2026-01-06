@@ -21,7 +21,7 @@
 ### 📌 Test-Automation-Framework
 - 🔗 Repo: https://github.com/Dnyaneshwar01/Test-Automation-Framework
 - 📝 Description: Test Automation Framework built on Java 11 using TestNG and LambdaTest to run tests on the cloud, with support for parallel execution.
-- 🛠 Tech: Java, Selenium.TeastNg, Docker
+- 🛠 Tech: Java, Selenium.TestNg, Docker
 
 ### 📌 PhoenixTestAutomationFramework
 - 🔗 Repo: https://github.com/Dnyaneshwar01/PhoenixTestAutomationFramework
