@@ -1,5 +1,5 @@
 # 💫 About Me:
-SDET with 3.5+ years of experience in Java, Selenium, Rest Assured, and CI/CD pipelines, <br>delivering scalable automation frameworks and high-quality web and API testing.
+SDET with 4 years of experience in automation and manual testing for web and API applications. Proficient in Java, Selenium WebDriver, TestNG, Rest Assured, Jenkins, Maven, Docker, Selenium Grid, Git, and Postman. Experienced in building scalable automation frameworks achieving up to 80% test coverage, integrating tests into CI/CD pipelines, and performing API validation and regression testing. Strong background in Agile/Scrum environments with excellent analytical and problem-solving skills, focused on improving software quality and testing efficiency..
 
 
 ## 🌐 Socials:
