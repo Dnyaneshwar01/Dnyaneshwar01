@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dnyaneshwar Ubale</h1>
-<h3 align="center">A passionate Software Development Engineer in Test</h3>
-<h3 align="center">SDET with 4+ years of experience in Manual and Automation testing across UI and APIs. Strong expertise in designing scalable automation frameworks, improving test coverage, and ensuring high-quality software delivery. Passionate about clean code, CI/CD integration, and continuous learning.</h3>
+
+<h3 align="center">
+Passionate Software Development Engineer in Test (SDET) <br/>
+UI & API Automation | 4+ Years of Experience
+</h3>
+
+<p align="center">
+SDET with 4+ years of hands-on experience in Manual and Automation testing across UI and APIs.
+Experienced in building scalable automation frameworks, increasing test coverage, and
+delivering high-quality, reliable software. Strong believer in clean code, CI/CD integration,
+and continuous learning.
+</p>
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
