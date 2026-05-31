@@ -29,6 +29,10 @@ and continuous learning.
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Rest Assured](https://img.shields.io/badge/rest%20assured-16A085?style=for-the-badge&logo=java&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
+### 🤖 AI Development Assistance
+- ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+- ![Claude Code](https://img.shields.io/badge/Claude%20Code-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white)
+
 ## 🚀 Featured Project
 
 ### 📌 Test-Automation-Framework
@@ -46,6 +50,16 @@ and continuous learning.
 - 📝 Description: Cucumeber BDD Framework
 - 🛠 Tech: Java, Cucumber BDD, Selenium
 
+## 🏆 Certifications
+#### 📜 Claude Code Certification
+
+<p align="center">
+  <a href="https://verify.skilljar.com/c/b9pio2im9rxf">
+    <img src="./claude-code-certification.jpg"
+         alt="Claude Code Certification"
+         width="500"/>
+  </a>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dnyaneshwar01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
